@@ -1,6 +1,3 @@
-# Hack_Hoverboard
-Repo expliquant la procédure pour hacker un hoverboard
-
 ## Matériel nécessaire
 * Un hoverboard fonctionnel
 * Une clé usb [ST-Link V2](https://www.amazon.fr/gp/product/B07H9XV2W2/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
@@ -13,6 +10,8 @@ Repo expliquant la procédure pour hacker un hoverboard
 
 ## Etapes
 1. Démonter l'hoverboard
-2. Démonter la carte mère du refroidisseur
-3. Souder 4 connecteurs de PCB mâle à l’emplacement « SWD Programming » dans l’image ci-dessous
-<img src="hoverboard_motherboard.jpg">
+2. Démonter la carte mère du refroidisseur. Dévisser les vis cruciformes.  
+3. Souder 4 connecteurs de PCB mâle à l’emplacement « SWD Programming » dans l’image ci-dessous  <img src="hoverboard_motherboard.jpg">  
+4. Remonter la carte mère sur refroidisseur  
+5. Récupérer les sources [ici](https://github.com/Lab-Origami/Hack_Hoverboard/tree/master/hoverboard-firmware-hack)
+6. Compiler les sources ([Mettre en place l'environnement sous Windows 10](compilation.md))
