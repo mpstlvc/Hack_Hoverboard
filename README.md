@@ -10,7 +10,8 @@
 
 ## Etapes
 1. Démonter l'hoverboard
-2. Démonter la carte mère du refroidisseur
+2. Démonter la carte mère du refroidisseur. Dévisser les vis cruciformes.  
 3. Souder 4 connecteurs de PCB mâle à l’emplacement « SWD Programming » dans l’image ci-dessous  <img src="hoverboard_motherboard.jpg">  
 4. Remonter la carte mère sur refroidisseur  
 5. Récupérer les sources [ici](https://github.com/Lab-Origami/Hack_Hoverboard/tree/master/hoverboard-firmware-hack)
+6. Compiler les sources ([Mettre en place l'environnement sous Windows 10](compilation.md))
