@@ -17,4 +17,8 @@
 fablab@DESKTOP-73ELB6A:~$ sudo add-apt-repository ppa:team-gcc-arm-embedded/ppa
 fablab@DESKTOP-73ELB6A:~$ sudo apt update  
 fablab@DESKTOP-73ELB6A:~$ sudo apt install gcc-arm-embedded build-essential
-```
+```  
+
+___
+
+# Fin de l'installation de l'environnement de compilation
