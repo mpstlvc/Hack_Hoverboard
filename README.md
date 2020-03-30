@@ -15,3 +15,4 @@
 4. Remonter la carte mère sur refroidisseur  
 5. Récupérer les sources [ici](https://github.com/Lab-Origami/Hack_Hoverboard/tree/master/hoverboard-firmware-hack)
 6. Compiler les sources ([Mettre en place l'environnement sous Windows 10](compilation.md))
+7. Installer l'[utilitaire de flashage](st_link_utility.md)
