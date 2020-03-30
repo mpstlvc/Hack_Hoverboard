@@ -15,3 +15,4 @@ Repo expliquant la procédure pour hacker un hoverboard
 1. Démonter l'hoverboard
 2. Démonter la carte mère du refroidisseur
 3. Souder 4 connecteurs de PCB mâle à l’emplacement « SWD Programming » dans l’image ci-dessous
+<img src="https://github.com/Lab-Origami/Hack_Hoverboard/blob/master/hoverboard_motherboard.jpg">
