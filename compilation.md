@@ -7,3 +7,9 @@
 4. Cocher "Sous-système Windows pour Linux"   <img src="fonctionnalites_windows.png">
 5. Cliquer sur OK
 6. Redémarrer l'ordinateur
+7. Quand l'ordinateur a redémarré, aller dans Microsoft Store et taper Linux dans la barre de recherche  
+8. Installer la distribution de votre choix (nous recommandons Ubuntu 18.04 LTS)  
+9. Pour lancer la distribution installée, ouvrir le menu démarrer et la rechercher  
+
+## Installer l'environnement de développement Linux
+
