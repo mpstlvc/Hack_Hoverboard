@@ -24,7 +24,9 @@
 _____  
 # Bonus  
 Le Nunchuck de Nintendo peut être alimenter en 5V continu.
-Pour récupérer du 5V sur la carte, souder un fil sur la patte gauche du régulateur de tension  
+Pour récupérer du 5V sur la carte, souder un fil sur la patte gauche du régulateur de tension.  
+Fil rouge sur la photo ci-dessous.  
+<img src="5V-carte-principale.png">  
 
   
   
