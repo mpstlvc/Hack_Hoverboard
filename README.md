@@ -1,4 +1,5 @@
-<img src="hack_hoverboard_banniere.jpg">
+<img src="hack_hoverboard_banniere.jpeg">  
+
 # Procédure  
 ## Matériel nécessaire
 * Un hoverboard fonctionnel
