@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
 // Headers
 $header-bg-color: #155799 !default;
 
