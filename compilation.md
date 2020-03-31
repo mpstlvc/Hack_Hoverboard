@@ -4,7 +4,23 @@ Se rendre ensuite dans le répertoire "hoverboard-firmware-hack" en tapant la li
 ```Console  
 fablab@DESKTOP-73ELB6A:~$ cd /mnt/c/Users/lenov/Desktop/hoverboard-firmware-hack
 ```  
-Puis taper la commande make  
+Puis taper les commandes suivantes    
 ```Console
+fablab@DESKTOP-73ELB6A:/mnt/c/Users/lenov/Desktop/hoverboard-firmware-hack$ make clean
 fablab@DESKTOP-73ELB6A:/mnt/c/Users/lenov/Desktop/hoverboard-firmware-hack$ make
+```  
+Vérifier dans le répertoire build qu'il y a bien les fichiers "hover.hex" et "hover.elf"  
+```Console  
+fablab@DESKTOP-73ELB6A:/mnt/c/Users/lenov/Desktop/hoverboard-firmware-hack$ cd build/   
 ```
+_____  
+
+# Aide mémoire  
+Pour lister le contenu d'un répertoire utiliser la commande ls
+```Console 
+fablab@DESKTOP-73ELB6A:/mnt/c/Users/lenov/Desktop/hoverboard-firmware-hack$ ls  
+```  
+Pour remonter d'un niveau dans la hiérarchie, utiliser la commande cd ..  
+```Console
+fablab@DESKTOP-73ELB6A:/mnt/c/Users/lenov/Desktop/hoverboard-firmware-hack/build$ cd ..  
+```  
