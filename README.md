@@ -1,4 +1,5 @@
 <img src="hack_hoverboard_banniere.jpeg">  
+*Crédit image : Arnaud R.*  
 
 # Procédure  
 ## Matériel nécessaire
