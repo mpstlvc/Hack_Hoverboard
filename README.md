@@ -19,7 +19,13 @@
 6.1 [Mettre en place l'environnement sous Windows 10](environnement.md)  
 6.2 [Compilation](compilation.md)
 7. Installer l'[utilitaire de flashage](st_link_utility.md)  
-7.1 [Flasher le fichier précédemment compilé sur la carte principale](flashage.md)
+7.1 [Flasher le fichier précédemment compilé sur la carte principale](flashage.md)  
+  
+_____  
+# Bonus  
+Le Nunchuck de Nintendo peut être alimenter en 5V continu.
+Pour récupérer du 5V sur la carte, souder un fil sur la patte gauche du régulateur de tension  
+
   
   
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
