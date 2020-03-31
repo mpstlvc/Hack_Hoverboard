@@ -15,10 +15,10 @@
 3. Souder 4 connecteurs de PCB mâle à l’emplacement « Interface de programmation » dans l’image ci-dessous  <img src="hoverboard_motherboard_fr.jpg">  
 4. Remonter la carte mère sur refroidisseur  
 5. Récupérer les sources [ici](https://github.com/Lab-Origami/Hack_Hoverboard/tree/master/hoverboard-firmware-hack)
-6. Compiler les sources 
+6. Compiler les sources   
 6.1 [Mettre en place l'environnement sous Windows 10](environnement.md)  
 6.2 [Compilation](compilation.md)
-7. Installer l'[utilitaire de flashage](st_link_utility.md)
+7. Installer l'[utilitaire de flashage](st_link_utility.md)  
 7.1 [Flasher le fichier précédemment compilé sur la carte principale](flashage.md)
   
   
