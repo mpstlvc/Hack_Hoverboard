@@ -1,4 +1,6 @@
-<img src="hack_hoverboard_banniere.jpeg"> *Crédit image : [A.Roi](mailto:arnaudroi@gmail.com)*   
+---
+image: /assets/images/hack_hoverboard_banniere.jpeg  
+---
 
 # Procédure  
 ## Matériel nécessaire
