@@ -1,6 +1,4 @@
----
-image: /assets/images/hack_hoverboard_banniere.jpeg  
----
+
 
 # Procédure  
 ## Matériel nécessaire
