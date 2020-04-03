@@ -1,2 +1,5 @@
-is_project_page: false  
+title: Hacking Hoverboard  
+show_downloads: false  
+github:  
+  is_project_page: false  
 theme: jekyll-theme-cayman  
