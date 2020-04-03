@@ -21,8 +21,5 @@ $section-headings-color: #155799 !default;
 }
 
 .page-header{  
-  color: $header-heading-color;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: url(hack_hoverboard_banniere.jpeg);  
+  background: #000000 url(hack_hoverboard_banniere.jpeg) 100% 100% no-repeat;  
 }
