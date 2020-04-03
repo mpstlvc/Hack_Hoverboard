@@ -1,53 +1,11 @@
 ---
----
+---  
 
-$header-bg-color: #C51A4A !default;
-@mixin large {
-  @media screen and (min-width: #{$large-breakpoint}) {
-    @content;
-  }
-}
+@import 'jekyll-theme-cayman';  
 
-@mixin medium {
-  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
-    @content;
-  }
-}
-
-@mixin small {
-  @media screen and (max-width: #{$medium-breakpoint}) {
-    @content;
-  }
-}
-
-@import "{{ site.theme }}";
-
-.page-header {
-  color: $header-heading-color;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(20deg, $header-bg-color-secondary, $header-bg-color);
-
-  @include small {
-    padding: 2rem 1rem;
-  }
-}
-
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
-
-  @include small {
-    font-size: 1.75rem;
-  }
-}
-
-.project-tagline {
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.7;
-
-  @include small {
-    font-size: 1rem;
-  }
-}
+// Headers  
+$header-bg-color: #155799 !default;  
+$header-bg-color-secondary: #155799 !default;  
+  
+// Text  
+$section-headings-color: #155799 !default;  
