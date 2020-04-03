@@ -18,4 +18,11 @@ $section-headings-color: #155799 !default;
     font-weight: normal;
     color: $section-headings-color;
   }  
-}  
+}
+
+.page-header{  
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: hack_hoverboard_banniere.jpeg;  
+}
