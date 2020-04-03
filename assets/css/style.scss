@@ -23,8 +23,15 @@ $section-headings-color: #155799 !default;
 .page-header{  
    background: url("hack_hoverboard_banniere.jpeg") no-repeat top center;
    background-size: cover; 
-   .header img {
-     margin-left: 50%;  
-     transform: translateX(-50%);  
-}
+     @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
