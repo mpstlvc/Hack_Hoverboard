@@ -41,7 +41,7 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 9. La fenêtre suivante doit s'ouvrir  
 <img src="program-and-verify.png" width="340">  
 
-10. Cliquez sur *Browse*, choisir le fichier hover.hex précédemment compilé, puis cliquez sur *Start*. S'assurer que *Verify while programming* est bien coché ainsi que *Reset after programming*  
+10. Cliquez sur *Browse*, choisir le fichier hover.hex précédemment compilé, puis cliquez sur *Start*. S'assurer que la case *Verify while programming* est bien cochée ainsi que *Reset after programming*  
 11. Lorsque le flashage est terminé et si tout s'est bien passé, vous devriez entendre une petite mélodie sur le buzzer de la carte principale de l'hoverboard  
 12. Vous pouvez alors cliquer sur *Target* puis *Disconnect*, débrancher la clé ST-Link et débrancher la batterie  
 
