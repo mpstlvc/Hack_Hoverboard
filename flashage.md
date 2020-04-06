@@ -8,7 +8,15 @@ Nous utiliserons les broches :
 
 <img src="st-link-connexion.jpg" width="340">
 
-Les connexions à réaliser du côté de la carte principale sont visibles sur la photo ci-dessous.   
+Les connexions à réaliser du côté de la carte principale sont visibles sur la photo ci-dessous.  
+**Attention, ne rien connecter sur la première broche**    
 
-<img src="carte-principle-connexion.jpg" width = "340">  
+<img src="carte-principle-connexion.jpg" width = "340"> 
+
+Pour être flashée, la carte principale a besoin d'être alimentée.  
+Nous utiliserons, pour cela, la batterie de l'hoverboard.  
+**Cette dernière doit être suffisamment chargée !**  
+
+
+
 
