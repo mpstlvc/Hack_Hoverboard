@@ -26,12 +26,15 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 4. Appuyer sur le bouton "Marche" de l'hoverboard et **NE PAS LE RELACHER** avant la fin de l'étape de flash  
 <img src="bouton-on.jpg" width="340">   
 
-5. Brancher la clé ST-Link sur un port USB de l'ordinateur       
-6. Si c'est la 1ère fois que vous flashez votre carte, il faudra désactiver la protection        
+5. Brancher la clé ST-Link sur un port USB de l'ordinateur. Si c’est la première fois que vous branchez votre ST-LinkV2 il faut attendre un peu pour qu’il soit reconnu par Windows         
+6. Si c'est la 1ère fois que vous flashez votre carte, il faudra désactiver la protection. Si vous ne faites pas cette étape, vous aurez un message d'erreur        
 6.1 Pour cela il faut ouvrir le menu Target, puis Options Bytes et mettre Read Out Protection sur Disable puis cliquez sur Apply  
 <img src = "option-bytes.png" width="340">     
 <img src = "readout-protection.png" width="340">  
 
-7. 
+7. Maintenant que la protection est enlevée, nous pouvons nous connecter sur la carte en cliquant sur *Target* puis *Connect*  
+<img src="connect-to-stm32.png" width="340">  
+
+8. 
 
 
