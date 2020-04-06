@@ -35,7 +35,6 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 <img src = "option-bytes.png" width="340">  
 <img src = "readout-protection.png" width="340">  
 
-6.2 Cliquez sur Apply  
 7. 
 
 
