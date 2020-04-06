@@ -17,6 +17,6 @@ Pour être flashée, la carte principale a besoin d'être alimentée.
 Nous utiliserons, pour cela, la batterie de l'hoverboard.  
 **Cette dernière doit être suffisamment chargée !**  
 
-
+# Etapes
 
 
