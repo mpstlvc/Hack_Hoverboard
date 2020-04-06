@@ -30,12 +30,13 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 
 5. Brancher la clé ST-Link sur un port USB de l'ordinateur  
 6. Si c'est la 1ère fois que vous flashez votre carte, il faudra désactiver la protection  
-6.1 Pour cela il faut ouvrir le menu Target, puis Options Bytes et mettre Read Out Protection sur Disable, puis cliquez sur Apply  
+6.1 Pour cela il faut ouvrir le menu Target, puis Options Bytes et mettre Read Out Protection sur Disable  
 
 <img src = "option-bytes.png" width="340">
 
 <img src = "readout-protection.png" width="340">    
 
+6.2 Cliquez sur Apply  
 7. Cliquez sur *Program & verify*  
 
 
