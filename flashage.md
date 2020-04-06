@@ -47,5 +47,5 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 
 ___
 
-# Félicatation ! Vous venez de flasher votre propre firmware
+# Félicitation ! Vous venez de flasher votre propre firmware
 
