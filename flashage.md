@@ -19,9 +19,7 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 
 # Etapes
 1. Connecter le ST-Link en suivant les indications ci-dessus  
-2. Brancher la batterie à l'aide du connecteur XT60
-<img src="connecteur-xt60.jpg" width="340">  
-
+2. Brancher la batterie à l'aide du connecteur XT60 <img src="connecteur-xt60.jpg" width="340" center>
 3. Lancer le logiciel *STM32 ST-LINK Utility* précédemment installé      
 4. Appuyer sur le bouton "Marche" de l'hoverboard et **NE PAS LE RELACHER** avant la fin de l'étape de flash  <img src="bouton-on.jpg" width="340">
 5. Brancher la clé ST-Link sur un port USB de l'ordinateur    
