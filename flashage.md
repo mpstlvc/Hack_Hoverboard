@@ -19,17 +19,21 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 
 # Etapes
 1. Connecter le ST-Link en suivant les indications ci-dessus  
-2. Brancher la batterie à l'aide du connecteur XT60 
+2. Brancher la batterie à l'aide du connecteur XT60
+
 <img src="connecteur-xt60.jpg" width="340" center>
 
 3. Lancer le logiciel *STM32 ST-LINK Utility* précédemment installé      
-4. Appuyer sur le bouton "Marche" de l'hoverboard et **NE PAS LE RELACHER** avant la fin de l'étape de flash  <img src="bouton-on.jpg" width="340">
+4. Appuyer sur le bouton "Marche" de l'hoverboard et **NE PAS LE RELACHER** avant la fin de l'étape de flash
+
+<img src="bouton-on.jpg" width="340">
 
 5. Brancher la clé ST-Link sur un port USB de l'ordinateur    
 6. Si c'est la 1ère fois que vous flashez votre carte, il faudra désactiver la protection    
 6.1 Pour cela il faut ouvrir le menu Target, puis Options Bytes et mettre Read Out Protection sur Disable puis cliquez sur Apply    
 
 <img src = "option-bytes.png" width="340">
+
 <img src = "readout-protection.png" width="340">
 
 7. 
