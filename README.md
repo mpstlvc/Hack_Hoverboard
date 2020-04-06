@@ -27,6 +27,7 @@ Pour récupérer du 5V sur la carte, souder un fil sur la patte gauche du régul
 Fil rouge sur la photo ci-dessous.  
 <img src="5V-carte-principale.jpg" width="340">  
 
-  
+
+Ce projet a été possible grâce au travail notamment de [NiklasFauth](https://github.com/NiklasFauth/hoverboard-firmware-hack) et le forum [cyclurba](https://cyclurba.fr/velo/897/hoverboard-tutoriel-modification-firmware.html)
   
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
