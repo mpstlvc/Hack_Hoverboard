@@ -15,7 +15,7 @@ Les connexions à réaliser du côté de la carte principale sont visibles sur l
 
 Pour être flashée, la carte principale a besoin d'être alimentée.  
 Nous utiliserons, pour cela, la batterie de l'hoverboard.  
-**Cette dernière doit être suffisamment chargée !**  
+**Elle doit être suffisamment chargée !**  
 
 # Etapes
 1. Connecter le ST-Link en suivant les indications ci-dessus  
