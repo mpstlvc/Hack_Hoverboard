@@ -1,6 +1,6 @@
 # Compilation
 Les sources disponibles sur ce Github permettent d'utiliser un par exemple une poignée de gaz pour un vélo électrique.  
-Pour compiler le code source ([disponible ici](https://github.com/Lab-Origami/Hack_Hoverboard/tree/master/hoverboard-firmware-hack) il faut lancer la distribution Linux précédemment installée.  
+Pour compiler le code source ([disponible ici](https://github.com/Lab-Origami/Hack_Hoverboard/tree/master/hoverboard-firmware-hack)) il faut lancer la distribution Linux précédemment installée.  
 Se rendre ensuite dans le répertoire "hoverboard-firmware-hack" en tapant la ligne de code ci-dessous  
 ***Attention, penser à adapter le chemin. Ici, le répertoire se trouve sur le bureau.***  
 ```Console  
