@@ -1,4 +1,3 @@
-Sources modifiées pour pouvoir utiliser un Nunchuck.
-Vitesse bridée et sens de rotation inversé.
+Sources modifiées pour pouvoir utiliser une poignée de gaz.
 
 Clone du projet de [NiklasFauth](https://github.com/NiklasFauth/hoverboard-firmware-hack)
