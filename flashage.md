@@ -26,7 +26,7 @@ Nous utiliserons, pour cela, la batterie de l'hoverboard.
 3. Lancer le logiciel *STM32 ST-LINK Utility* précédemment installé  
 4. Appuyer sur le bouton "Marche" de l'hoverboard et **NE PAS LE RELACHER** avant la fin de l'étape de flash 
 
-<img src="bouton-on.jpg" widhth="340">
+<img src="bouton-on.jpg" width="340">
 
 5. Si c'est la 1ère fois que vous flashez votre carte, il faudra désactiver la protection  
 5.1 Pour cela il faut ouvrir le menu Target, puis Options Bytes et mettre Read Out Protection sur Disable, puis cliquez sur Apply.
